@@ -1,0 +1,30 @@
+{
+  "name": "RRDB",
+  "version": "1.0.0",
+  "description": "[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e203041651884017864eb02ef849ae76)](https://app.codacy.com/app/Vanerac/Rainbow-Roles-Discord-Bot?utm_source=github.com&utm_medium=referral&utm_content=Vanerac/Rainbow-Roles-Discord-Bot&utm_campaign=Badge_Grade_Dashboard)\r [![Greenkeeper badge](https://badges.greenkeeper.io/Vanerac/Rainbow-Roles-Discord-Bot.svg)](https://greenkeeper.io/)\r [![Build Status](https://travis-ci.com/Vanerac/Rainbow-Roles-Discord-Bot.svg?branch=master)](https://travis-ci.com/Vanerac/Rainbow-Roles-Discord-Bot)",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "forever-monitor": "^1.7.1",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.1",
+    "npm": "^6.1.0",
+    "pm2": "^3.2.4",
+    "randomcolor": "^0.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanerac/Rainbow-Roles-Discord-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanerac/Rainbow-Roles-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Vanerac/Rainbow-Roles-Discord-Bot#readme"
+}
